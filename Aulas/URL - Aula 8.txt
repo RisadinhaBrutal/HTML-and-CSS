@@ -1,0 +1,19 @@
+URL - Uniform Resource Locator
+
+
+www.dominio.com (o ".com" é o GTLD - Generic Top Level Domain (.com .store .org))
+
+WWW.dominio.com.br (o ".br" é o CCTLD - Country Code Top Level Domain)
+
+
+"www" é o SUB-DOMÍNIO (existem outros)
+
+
+O DOMÍNIO é a junção do TLD e o proprio nome em si (ex: domínio)
+
+DOMÍNIO: "dominio.com"
+
+todo o resto da url depois da / é chamado de CAMINHO
+(www.exemplo.com/caminho)
+
+"https://" é o protocolo (http secure)

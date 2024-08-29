@@ -1,0 +1,100 @@
+a (linguagem (Hyper Text Markup Language)) HTML e as (Cascading Style Sheets) CSS
+
+(Linguagem de Marcação de Hipertexto) (Folhas de Estilo em Cascata)
+
+( HYPERTEXTO: Você clica numa área e é desviado para outra )
+
+( ambas são linguagens, mas não são linguagens de programação )
+
+
+
+Não "programo" em HTML e CSS
+
+Eu "DESENVOLVO" em HTML e CSS
+
+Eu "crio sites" em HTML e CSS
+
+
+
+HTML é uma linguagem focada em CONTEÚDO (listas, texto, imagens, vídeos).
+
+CSS é foco em atrativos visuais, DESIGN (cores, sombras, tamanhos, posicionamentos).
+
+JS é responsável pelas INTERAÇÕES.
+
+
+
+CONTEUDO EM HTML
+
+<> = colchete angular
+
+<h1> HEADER PRINCIPAL </h1>  //<h1> abertura de tag       </h1> fechamento de tag 
+
+<p> PARAGRAFO </p>
+
+//A MAIORIA das TAGS tem fechamento
+//mas algumas não. Ex.:
+
+<img src="foto.png" alt="exemplo de foto"> 
+
+//img é a TAG. src (SOURCE)
+//alt (TEXTO ALTERNATIVO) são PARÂMETROS
+//O que está entre aspas é o VALOR 
+
+
+
+ESTILO EM CSS
+
+h1{
+	font-family: Arial;
+	font-size: 20pt;
+	color: blue;
+}
+
+//h1 é o SELETOR
+
+//todo o resto é DECLARAÇÃO (Toda declaração em CSS tem que ter ; no final)
+
+//"color:" é a PROPRIEDADE e "blue" é o VALOR
+//PROPRIEDADE + VALOR = DECLARAÇÃO
+
+
+
+ESTRUTURA BÁSICA EM HTML
+
+
+
+<!DOCTYPE html>  //estamos dizendo que é um arquivo em HTML 5
+
+<html lang="pt-br">  //estamos dizendo que este site está em português brasileiro
+
+	<head>
+		<meta charset="UTF-8">  // significa que o site vai ser compativo com a codificação utf-8 (acentos e etc)
+	
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	
+		<title>Document</title>  // é o titulo do site (na janelinha / aba)
+
+
+	</head>
+
+
+	<body>
+
+		<h1>Olá, mundo!</h1>
+	
+	</body>
+
+
+</html>  //tag de fechamento do html
+
+
+
+
+
+
+
+
+
+
+
